@@ -1,0 +1,43 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+ 
+}
+.parent1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+ 
+}
+.child{
+    color: orangered;
+    border: 1px solid grey;
+    width: 530px;
+    height: 250px;
+    margin: 20px;
+    box-shadow: 4px 4px 4px 4px lightgray, 4px 4px 4px 4px gray;
+}
+.child1{
+    color: orangered;
+    border: 1px solid grey;
+    width: 530px;
+    height: 250px;
+    margin: 20px;
+    box-shadow: 4px 4px 4px 4px lightgray, 4px 4px 4px 4px gray;
+}
+
+
+img{
+    object-fit:cover;
+}
+p{
+padding: 10px;
+text-align: center;
+
+}
+p::first-letter{
+    font-size: 70px;
+}

@@ -1,0 +1,13 @@
+
+
+.parentform{
+   position: relative; 
+}
+.form{
+    position: absolute;
+    top: 400px;
+}
+input{
+    border: 1px solid grey;
+ margin-left: 50px;
+}
